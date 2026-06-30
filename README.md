@@ -25,3 +25,13 @@ A minimal **Windows Driver Model (WDM)** project template that demonstrates how 
 - **`Makefile.toml`** Configuration for `cargo-make`. It extends the default `wdk-build` logic to automate signing, inf-stamping, and package creation.
 
 - **`wdm_driver_example_rs.inx`** The architecture-independent template used to generate the final `.inf` file for driver installation.
+
+## About Apriorit
+
+This repository is a public technical example from Apriorit related to kernel and advanced software engineering.
+
+Apriorit is a cybersecurity-focused software engineering company that helps technology companies build secure, reliable, and high-performance software — from kernel-level components to cloud-based platforms.
+
+Learn more: https://www.apriorit.com/our-expertise/kernel-and-driver-development
+
+Website: https://www.apriorit.com
